@@ -62,7 +62,7 @@ A protocol for "Semantic Zipping". Using local Small Language Models (SLMs) to c
 **Status:** 🟣 Theoretical / Deep Research
 A biological metaphor applied to database architecture. During low-load cycles ("sleep"), the database analyzes short-term memory (T0xN-B).
 *   **The Consensus:** It compresses recurring patterns into "Archetypes".
-*   **The Dissent:** Data that fits *no* archetype is treated as "Divergent Thought". Following the **10th Man Doctrine**, this data is protected, kept raw, and flagged as critical to prevent cognitive blindness to anomalies.
+*   **The Dissent (The 10th Man):** Data that fits *no* archetype is treated as "Divergent Thought". It is isolated in a Secure Dissent Collector, protected from compression but rigorously filtered for entropy to prevent "Anomaly Flooding" attacks.
 
 ### 🅴 T0xN-E: The Event
 **Status:** 🔴 Conceptual
