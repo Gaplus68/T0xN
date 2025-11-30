@@ -77,8 +77,5 @@ This research builds upon:
 *   **[Redis](https://redis.io)** (The in-memory laboratory)
 
 ## 6. Contributing
-This is an experimental project. We are looking for:
-*   **Rust Developers** for the Redis Module.
-*   **Data Scientists** for the Dreaming algorithms.
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+This is an experimental project. 
+(no contribution wanted at the moment)
